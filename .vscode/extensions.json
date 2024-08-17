@@ -1,5 +1,4 @@
 {
-    "recommendations": [
-        "ritwickdey.liveserver"
-    ]
+    "liveServer.settings.port": 8000
+    
 }
